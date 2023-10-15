@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "poppins-bold";
+    src: url("../fonts/poppins/Poppins-Bold.ttf");
+}
+
+@font-face {
+    font-family: "nunito-sans-bold";
+    src: url("../fonts/nunito-sans/NunitoSans_7pt-Bold.ttf");
+}
+@font-face {
+    font-family: "nunito-sans-semibold";
+    src: url("../fonts/nunito-sans/NunitoSans_7pt-SemiBold.ttf");
+}
